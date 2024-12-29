@@ -1,0 +1,11 @@
+[package]
+name = "collateral_marketplace"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+rand = "0.8"
+eframe = "0.30"  # Or latest version
+egui = { version = "0.30.0"}
+egui_plot = "0.30.0"
