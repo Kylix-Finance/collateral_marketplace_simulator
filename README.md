@@ -2,6 +2,8 @@
 
 Welcome to the Collateral Marketplace project. This README will guide you through the setup, usage, and contribution process for this project.
 
+![image](https://github.com/user-attachments/assets/81be9d10-ab5a-4066-9273-961d2ed55b07)
+
 ## Table of Contents
 
 - [Collateral Marketplace](#collateral-marketplace)
