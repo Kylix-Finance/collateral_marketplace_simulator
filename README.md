@@ -1,6 +1,6 @@
 # Collateral Marketplace
 
-Welcome to the Collateral Marketplace project! This README will guide you through the setup, usage, and contribution process for this project.
+Welcome to the Collateral Marketplace project. This README will guide you through the setup, usage, and contribution process for this project.
 
 ## Table of Contents
 
